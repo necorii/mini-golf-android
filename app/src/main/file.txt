@@ -1,0 +1,251 @@
+ Volume in drive C is Hard Drive
+ Volume Serial Number is F69C-8AC4
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main
+
+2025-10-14  04:34 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,771 AndroidManifest.xml
+2025-10-14  04:02 PM    <DIR>          assets
+2025-10-14  04:01 PM    <DIR>          cpp
+2025-10-14  04:34 PM                 0 file.txt
+2025-10-14  04:18 PM            86,470 ic_launcher-playstore.png
+2025-10-14  04:01 PM    <DIR>          java
+2025-10-14  04:01 PM    <DIR>          res
+               3 File(s)         88,241 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets
+
+2025-10-14  04:02 PM    <DIR>          .
+2025-10-14  04:34 PM    <DIR>          ..
+2025-10-14  04:01 PM                 0 .gitkeep
+2025-10-12  05:52 PM    <DIR>          font
+2025-10-14  01:22 PM    <DIR>          gfx
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets\font
+
+2025-10-12  05:52 PM    <DIR>          .
+2025-10-14  04:02 PM    <DIR>          ..
+2025-10-12  05:48 PM         3,825,804 rodin.otf
+               1 File(s)      3,825,804 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets\gfx
+
+2025-10-14  01:22 PM    <DIR>          .
+2025-10-14  04:02 PM    <DIR>          ..
+2025-10-10  03:31 PM             5,316 ball.png
+2025-10-10  03:31 PM               724 ball_shadow.png
+2025-10-12  04:00 PM             9,824 bg.png
+2025-10-10  03:31 PM               799 hole.png
+2025-10-10  03:31 PM               759 point.png
+2025-10-10  03:31 PM               665 powermeter_bg.png
+2025-10-10  03:31 PM               588 powermeter_fg.png
+2025-10-10  03:31 PM               717 powermeter_overlay.png
+2025-10-14  01:22 PM             9,244 settings.png
+2025-10-14  01:21 PM               933 wall.png
+              10 File(s)         29,569 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:34 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,756 CMakeLists.txt
+2025-10-14  04:01 PM    <DIR>          deps
+2025-10-14  04:19 PM            18,909 main.c
+               2 File(s)         20,665 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raylib
+2025-10-14  04:01 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,491 CMakeLists.txt
+2025-10-14  04:01 PM            16,722 config.h
+2025-10-14  04:01 PM    <DIR>          external
+2025-10-14  04:01 PM    <DIR>          platforms
+2025-10-14  04:01 PM           109,654 raudio.c
+2025-10-14  04:01 PM           130,625 raylib.h
+2025-10-14  04:01 PM            82,281 raymath.h
+2025-10-14  04:01 PM            21,819 rcamera.h
+2025-10-14  04:01 PM           159,352 rcore.c
+2025-10-14  04:01 PM            22,530 rgestures.h
+2025-10-14  04:01 PM           249,722 rlgl.h
+2025-10-14  04:01 PM           307,329 rmodels.c
+2025-10-14  04:01 PM            92,430 rshapes.c
+2025-10-14  04:01 PM           102,673 rtext.c
+2025-10-14  04:01 PM           225,677 rtextures.c
+2025-10-14  04:01 PM            20,792 utils.c
+2025-10-14  04:01 PM             3,085 utils.h
+              15 File(s)      1,546,182 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib\external
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM           199,324 cgltf.h
+2025-10-14  04:01 PM             5,184 dirent.h
+2025-10-14  04:01 PM           525,671 dr_flac.h
+2025-10-14  04:01 PM           181,934 dr_mp3.h
+2025-10-14  04:01 PM           351,978 dr_wav.h
+2025-10-14  04:01 PM            51,991 jar_mod.h
+2025-10-14  04:01 PM           101,770 jar_xm.h
+2025-10-14  04:01 PM           305,622 m3d.h
+2025-10-14  04:01 PM         3,985,334 miniaudio.h
+2025-10-14  04:01 PM            35,114 msf_gif.h
+2025-10-14  04:01 PM            81,774 nanosvg.h
+2025-10-14  04:01 PM            38,399 nanosvgrast.h
+2025-10-14  04:01 PM            72,865 par_shapes.h
+2025-10-14  04:01 PM            23,885 qoa.h
+2025-10-14  04:01 PM            10,503 qoaplay.c
+2025-10-14  04:01 PM            18,314 qoi.h
+2025-10-14  04:01 PM            36,115 rl_gputex.h
+2025-10-14  04:01 PM            11,693 rprand.h
+2025-10-14  04:01 PM            28,019 sdefl.h
+2025-10-14  04:01 PM            21,581 sinfl.h
+2025-10-14  04:01 PM           283,010 stb_image.h
+2025-10-14  04:01 PM           451,105 stb_image_resize2.h
+2025-10-14  04:01 PM            71,221 stb_image_write.h
+2025-10-14  04:01 PM            17,918 stb_perlin.h
+2025-10-14  04:01 PM            20,199 stb_rect_pack.h
+2025-10-14  04:01 PM           199,192 stb_truetype.h
+2025-10-14  04:01 PM           192,790 stb_vorbis.c
+2025-10-14  04:01 PM            45,666 tinyobj_loader_c.h
+2025-10-14  04:01 PM            19,540 vox_loader.h
+              29 File(s)      7,387,711 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib\platforms
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM            55,092 rcore_android.c
+               1 File(s)         55,092 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raymob
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,654 callback.c
+2025-10-14  04:01 PM               697 CMakeLists.txt
+2025-10-14  04:29 PM             3,152 display.c
+2025-10-14  04:01 PM            15,225 helper.c
+2025-10-14  04:01 PM             9,019 raymob.h
+2025-10-14  04:01 PM             5,085 sensor.c
+2025-10-14  04:29 PM             8,095 soft_keyboard.c
+2025-10-14  04:01 PM             4,217 vibrator.c
+               8 File(s)         47,144 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:34 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raylib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com\raylib
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com\raylib\raymob
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:29 PM             2,094 DisplayManager.java
+2025-10-14  04:29 PM             3,199 NativeLoader.java
+2025-10-14  04:29 PM             2,604 SoftKeyboard.java
+               3 File(s)          7,897 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:34 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          mipmap-anydpi-v26
+2025-10-14  04:01 PM    <DIR>          mipmap-hdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-mdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xhdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xxhdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xxxhdpi
+2025-10-14  04:01 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-anydpi-v26
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               265 ic_launcher.xml
+2025-10-14  04:01 PM               265 ic_launcher_round.xml
+               2 File(s)            530 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-hdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,349 ic_launcher.png
+2025-10-14  04:01 PM             1,477 ic_launcher_foreground.png
+2025-10-14  04:01 PM             3,271 ic_launcher_round.png
+               3 File(s)          6,097 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-mdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               961 ic_launcher.png
+2025-10-14  04:01 PM               909 ic_launcher_foreground.png
+2025-10-14  04:01 PM             2,155 ic_launcher_round.png
+               3 File(s)          4,025 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,809 ic_launcher.png
+2025-10-14  04:01 PM             1,950 ic_launcher_foreground.png
+2025-10-14  04:01 PM             4,974 ic_launcher_round.png
+               3 File(s)          8,733 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             2,592 ic_launcher.png
+2025-10-14  04:01 PM             2,826 ic_launcher_foreground.png
+2025-10-14  04:01 PM             7,354 ic_launcher_round.png
+               3 File(s)         12,772 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxxhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             3,723 ic_launcher.png
+2025-10-14  04:01 PM             3,898 ic_launcher_foreground.png
+2025-10-14  04:01 PM            10,584 ic_launcher_round.png
+               3 File(s)         18,205 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\values
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               120 ic_launcher_background.xml
+2025-10-14  04:01 PM                68 strings.xml
+               2 File(s)            188 bytes
+
+     Total Files Listed:
+              92 File(s)     13,058,855 bytes
+              65 Dir(s)  286,729,912,320 bytes free

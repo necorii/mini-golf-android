@@ -1,0 +1,3412 @@
+ Volume in drive C is Hard Drive
+ Volume Serial Number is F69C-8AC4
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app
+
+2025-10-14  04:33 PM    <DIR>          .
+2025-10-14  04:27 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          .cxx
+2025-10-14  04:01 PM                 6 .gitignore
+2025-10-14  04:20 PM    <DIR>          build
+2025-10-14  04:01 PM             7,690 build.gradle
+2025-10-14  04:33 PM                 0 file.txt
+2025-10-14  04:01 PM    <DIR>          libs
+2025-10-14  04:29 PM               905 proguard-rules.pro
+2025-10-14  04:01 PM    <DIR>          src
+               4 File(s)          8,601 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:33 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Debug
+2025-10-14  04:13 PM    <DIR>          tools
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          5x1e386a
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          arm64-v8a
+2025-10-14  04:13 PM             1,122 hash_key.txt
+2025-10-14  04:19 PM    <DIR>          x86
+2025-10-14  04:24 PM    <DIR>          x86_64
+               1 File(s)          1,122 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          .cmake
+2025-10-14  04:29 PM            32,200 .ninja_deps
+2025-10-14  04:29 PM             2,125 .ninja_log
+2025-10-14  04:28 PM                 0 additional_project_files.txt
+2025-10-14  04:28 PM             2,078 android_gradle_build.json
+2025-10-14  04:28 PM             1,604 android_gradle_build_mini.json
+2025-10-14  04:28 PM            51,047 build.ninja
+2025-10-14  04:28 PM               226 build_file_index.txt
+2025-10-14  04:28 PM            17,035 CMakeCache.txt
+2025-10-14  04:28 PM    <DIR>          CMakeFiles
+2025-10-14  04:28 PM             2,296 cmake_install.cmake
+2025-10-14  04:28 PM            15,894 compile_commands.json
+2025-10-14  04:28 PM             3,546 compile_commands.json.bin
+2025-10-14  04:29 PM             1,749 configure_fingerprint.bin
+2025-10-14  04:28 PM    <DIR>          deps
+2025-10-14  04:28 PM             1,086 metadata_generation_command.txt
+2025-10-14  04:28 PM                40 prefab_config.json
+2025-10-14  04:28 PM                91 symbol_folder_index.txt
+              15 File(s)        131,017 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          api
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake\api
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          v1
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake\api\v1
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          query
+2025-10-14  04:28 PM    <DIR>          reply
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake\api\v1\query
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          client-agp
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake\api\v1\query\client-agp
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM                 0 cache-v2
+2025-10-14  04:28 PM                 0 cmakeFiles-v1
+2025-10-14  04:28 PM                 0 codemodel-v2
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\.cmake\api\v1\reply
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            27,665 cache-v2-ef0617c455a08e2771a7.json
+2025-10-14  04:28 PM            29,865 cmakeFiles-v1-510aeddf0abeb7d7c5b1.json
+2025-10-14  04:28 PM             2,219 codemodel-v2-6ce81323508b2c982c7a.json
+2025-10-14  04:28 PM               168 directory-.-Debug-d0094a50bb2071803777.json
+2025-10-14  04:28 PM               188 directory-deps.raylib-Debug-f7c5c25f131bcb04b82a.json
+2025-10-14  04:28 PM               188 directory-deps.raymob-Debug-0ee0af6105d0b0524237.json
+2025-10-14  04:28 PM             1,743 index-2025-10-14T23-28-56-0518.json
+2025-10-14  04:28 PM             3,154 target-raylib-Debug-f50163e32fb2711ad273.json
+2025-10-14  04:28 PM             4,811 target-raymob-Debug-08bf3b8421e53e512602.json
+2025-10-14  04:28 PM             3,381 target-raymoblib-Debug-35a1f3c2822277229f8b.json
+              10 File(s)         73,382 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          3.22.1-g37088a8-dirty
+2025-10-14  04:28 PM                86 cmake.check_cache
+2025-10-14  04:28 PM            44,900 CMakeOutput.log
+2025-10-14  04:28 PM    <DIR>          CMakeTmp
+2025-10-14  04:28 PM    <DIR>          raymob.dir
+2025-10-14  04:28 PM             5,132 rules.ninja
+2025-10-14  04:28 PM               936 TargetDirectories.txt
+               4 File(s)         51,054 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\3.22.1-g37088a8-dirty
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM             3,793 CMakeCCompiler.cmake
+2025-10-14  04:28 PM             6,839 CMakeCXXCompiler.cmake
+2025-10-14  04:28 PM             7,992 CMakeDetermineCompilerABI_C.bin
+2025-10-14  04:28 PM             8,128 CMakeDetermineCompilerABI_CXX.bin
+2025-10-14  04:28 PM               482 CMakeSystem.cmake
+2025-10-14  04:28 PM    <DIR>          CompilerIdC
+2025-10-14  04:28 PM    <DIR>          CompilerIdCXX
+               5 File(s)         27,234 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            25,656 CMakeCCompilerId.c
+2025-10-14  04:28 PM             5,984 CMakeCCompilerId.o
+2025-10-14  04:28 PM    <DIR>          tmp
+               2 File(s)         31,640 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC\tmp
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            25,388 CMakeCXXCompilerId.cpp
+2025-10-14  04:28 PM             6,000 CMakeCXXCompilerId.o
+2025-10-14  04:28 PM    <DIR>          tmp
+               2 File(s)         31,388 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX\tmp
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\CMakeTmp
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          C_
+2025-10-14  04:28 PM            40,328 main.c.o
+               1 File(s)         40,328 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          Users
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          User
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          AppData
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          Local
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          Android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          Sdk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          ndk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          27.0.12077973
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          sources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          native_app_glue
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android\native_app_glue
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            77,200 android_native_app_glue.c.o
+               1 File(s)         77,200 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          raylib
+2025-10-14  04:29 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raylib
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          CMakeFiles
+2025-10-14  04:28 PM             1,446 cmake_install.cmake
+2025-10-14  04:29 PM         7,271,838 libraylib.a
+               2 File(s)      7,273,284 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raylib\CMakeFiles
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          raylib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raylib\CMakeFiles\raylib.dir
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:29 PM         2,792,120 raudio.c.o
+2025-10-14  04:28 PM           901,072 rcore.c.o
+2025-10-14  04:29 PM         1,173,240 rmodels.c.o
+2025-10-14  04:28 PM           134,528 rshapes.c.o
+2025-10-14  04:28 PM           312,336 rtext.c.o
+2025-10-14  04:29 PM         1,866,848 rtextures.c.o
+2025-10-14  04:28 PM            42,464 utils.c.o
+               7 File(s)      7,222,608 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raymob
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          CMakeFiles
+2025-10-14  04:28 PM             1,446 cmake_install.cmake
+2025-10-14  04:29 PM           230,600 libraymoblib.a
+               2 File(s)        232,046 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raymob\CMakeFiles
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          raymoblib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\arm64-v8a\deps\raymob\CMakeFiles\raymoblib.dir
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            35,688 callback.c.o
+2025-10-14  04:29 PM            31,184 display.c.o
+2025-10-14  04:28 PM            63,608 helper.c.o
+2025-10-14  04:28 PM            23,424 sensor.c.o
+2025-10-14  04:29 PM            41,240 soft_keyboard.c.o
+2025-10-14  04:28 PM            34,064 vibrator.c.o
+               6 File(s)        229,208 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          .cmake
+2025-10-14  04:13 PM                 0 additional_project_files.txt
+2025-10-14  04:13 PM             2,030 android_gradle_build.json
+2025-10-14  04:13 PM             1,556 android_gradle_build_mini.json
+2025-10-14  04:13 PM            50,723 build.ninja
+2025-10-14  04:13 PM               226 build_file_index.txt
+2025-10-14  04:13 PM            16,993 CMakeCache.txt
+2025-10-14  04:13 PM    <DIR>          CMakeFiles
+2025-10-14  04:13 PM             2,278 cmake_install.cmake
+2025-10-14  04:13 PM            15,591 compile_commands.json
+2025-10-14  04:13 PM             3,506 compile_commands.json.bin
+2025-10-14  04:19 PM             1,683 configure_fingerprint.bin
+2025-10-14  04:13 PM    <DIR>          deps
+2025-10-14  04:13 PM             1,056 metadata_generation_command.txt
+2025-10-14  04:13 PM                40 prefab_config.json
+2025-10-14  04:13 PM                85 symbol_folder_index.txt
+              13 File(s)         95,767 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          api
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake\api
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          v1
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake\api\v1
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          query
+2025-10-14  04:13 PM    <DIR>          reply
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake\api\v1\query
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          client-agp
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake\api\v1\query\client-agp
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM                 0 cache-v2
+2025-10-14  04:13 PM                 0 cmakeFiles-v1
+2025-10-14  04:13 PM                 0 codemodel-v2
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\.cmake\api\v1\reply
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM            27,629 cache-v2-067187bb2e230001f90c.json
+2025-10-14  04:13 PM            29,829 cmakeFiles-v1-00feefc33ab3e99d9b08.json
+2025-10-14  04:13 PM             2,213 codemodel-v2-9f4cd1065c636a91364a.json
+2025-10-14  04:13 PM               168 directory-.-Debug-d0094a50bb2071803777.json
+2025-10-14  04:13 PM               188 directory-deps.raylib-Debug-f7c5c25f131bcb04b82a.json
+2025-10-14  04:13 PM               188 directory-deps.raymob-Debug-0ee0af6105d0b0524237.json
+2025-10-14  04:13 PM             1,743 index-2025-10-14T23-13-12-0712.json
+2025-10-14  04:13 PM             3,130 target-raylib-Debug-0e3da182440b77a46102.json
+2025-10-14  04:13 PM             4,805 target-raymob-Debug-fcdbc9a422e6c772b92f.json
+2025-10-14  04:13 PM             3,381 target-raymoblib-Debug-35a1f3c2822277229f8b.json
+              10 File(s)         73,274 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          3.22.1-g37088a8-dirty
+2025-10-14  04:13 PM                86 cmake.check_cache
+2025-10-14  04:13 PM            43,543 CMakeOutput.log
+2025-10-14  04:13 PM    <DIR>          CMakeTmp
+2025-10-14  04:13 PM    <DIR>          raymob.dir
+2025-10-14  04:13 PM             5,114 rules.ninja
+2025-10-14  04:13 PM               882 TargetDirectories.txt
+               4 File(s)         49,625 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\3.22.1-g37088a8-dirty
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM             3,781 CMakeCCompiler.cmake
+2025-10-14  04:13 PM             6,827 CMakeCXXCompiler.cmake
+2025-10-14  04:13 PM             5,984 CMakeDetermineCompilerABI_C.bin
+2025-10-14  04:13 PM             6,124 CMakeDetermineCompilerABI_CXX.bin
+2025-10-14  04:13 PM               479 CMakeSystem.cmake
+2025-10-14  04:13 PM    <DIR>          CompilerIdC
+2025-10-14  04:13 PM    <DIR>          CompilerIdCXX
+               5 File(s)         23,195 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM            25,656 CMakeCCompilerId.c
+2025-10-14  04:13 PM             3,860 CMakeCCompilerId.o
+2025-10-14  04:13 PM    <DIR>          tmp
+               2 File(s)         29,516 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC\tmp
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM            25,388 CMakeCXXCompilerId.cpp
+2025-10-14  04:13 PM             3,896 CMakeCXXCompilerId.o
+2025-10-14  04:13 PM    <DIR>          tmp
+               2 File(s)         29,284 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX\tmp
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\CMakeTmp
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          C_
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Users
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          User
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          AppData
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Local
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Sdk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          ndk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          27.0.12077973
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          sources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          native_app_glue
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android\native_app_glue
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          raylib
+2025-10-14  04:13 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raylib
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          CMakeFiles
+2025-10-14  04:13 PM             1,446 cmake_install.cmake
+               1 File(s)          1,446 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raylib\CMakeFiles
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          raylib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raylib\CMakeFiles\raylib.dir
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raymob
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          CMakeFiles
+2025-10-14  04:13 PM             1,446 cmake_install.cmake
+               1 File(s)          1,446 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raymob\CMakeFiles
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          raymoblib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86\deps\raymob\CMakeFiles\raymoblib.dir
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64
+
+2025-10-14  04:24 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          .cmake
+2025-10-14  04:24 PM            32,884 .ninja_deps
+2025-10-14  04:24 PM             2,121 .ninja_log
+2025-10-14  04:20 PM                 0 additional_project_files.txt
+2025-10-14  04:20 PM             2,054 android_gradle_build.json
+2025-10-14  04:20 PM             1,580 android_gradle_build_mini.json
+2025-10-14  04:20 PM            50,789 build.ninja
+2025-10-14  04:20 PM               226 build_file_index.txt
+2025-10-14  04:20 PM            17,014 CMakeCache.txt
+2025-10-14  04:20 PM    <DIR>          CMakeFiles
+2025-10-14  04:20 PM             2,287 cmake_install.cmake
+2025-10-14  04:20 PM            15,666 compile_commands.json
+2025-10-14  04:20 PM             3,511 compile_commands.json.bin
+2025-10-14  04:24 PM             1,716 configure_fingerprint.bin
+2025-10-14  04:20 PM    <DIR>          deps
+2025-10-14  04:20 PM             1,071 metadata_generation_command.txt
+2025-10-14  04:20 PM                40 prefab_config.json
+2025-10-14  04:20 PM                88 symbol_folder_index.txt
+              15 File(s)        131,047 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:24 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          api
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake\api
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          v1
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake\api\v1
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          query
+2025-10-14  04:20 PM    <DIR>          reply
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake\api\v1\query
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          client-agp
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake\api\v1\query\client-agp
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM                 0 cache-v2
+2025-10-14  04:19 PM                 0 cmakeFiles-v1
+2025-10-14  04:19 PM                 0 codemodel-v2
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\.cmake\api\v1\reply
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM            27,647 cache-v2-950b966f417f30f2cdd3.json
+2025-10-14  04:20 PM            29,847 cmakeFiles-v1-b5eb154771b7b4a9d484.json
+2025-10-14  04:20 PM             2,216 codemodel-v2-23021a60316a07c75a6f.json
+2025-10-14  04:20 PM               168 directory-.-Debug-d0094a50bb2071803777.json
+2025-10-14  04:20 PM               188 directory-deps.raylib-Debug-f7c5c25f131bcb04b82a.json
+2025-10-14  04:20 PM               188 directory-deps.raymob-Debug-0ee0af6105d0b0524237.json
+2025-10-14  04:20 PM             1,743 index-2025-10-14T23-20-02-0938.json
+2025-10-14  04:20 PM             3,130 target-raylib-Debug-0e3da182440b77a46102.json
+2025-10-14  04:20 PM             4,808 target-raymob-Debug-7c31b8fcc27611300209.json
+2025-10-14  04:20 PM             3,381 target-raymoblib-Debug-35a1f3c2822277229f8b.json
+              10 File(s)         73,316 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:24 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          3.22.1-g37088a8-dirty
+2025-10-14  04:20 PM                86 cmake.check_cache
+2025-10-14  04:20 PM            44,031 CMakeOutput.log
+2025-10-14  04:20 PM    <DIR>          CMakeTmp
+2025-10-14  04:20 PM    <DIR>          raymob.dir
+2025-10-14  04:20 PM             5,125 rules.ninja
+2025-10-14  04:20 PM               909 TargetDirectories.txt
+               4 File(s)         50,151 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\3.22.1-g37088a8-dirty
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             3,789 CMakeCCompiler.cmake
+2025-10-14  04:20 PM             6,835 CMakeCXXCompiler.cmake
+2025-10-14  04:20 PM             7,344 CMakeDetermineCompilerABI_C.bin
+2025-10-14  04:20 PM             7,496 CMakeDetermineCompilerABI_CXX.bin
+2025-10-14  04:19 PM               481 CMakeSystem.cmake
+2025-10-14  04:19 PM    <DIR>          CompilerIdC
+2025-10-14  04:20 PM    <DIR>          CompilerIdCXX
+               5 File(s)         25,945 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM            25,656 CMakeCCompilerId.c
+2025-10-14  04:19 PM             5,360 CMakeCCompilerId.o
+2025-10-14  04:19 PM    <DIR>          tmp
+               2 File(s)         31,016 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdC\tmp
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM            25,388 CMakeCXXCompilerId.cpp
+2025-10-14  04:20 PM             5,416 CMakeCXXCompilerId.o
+2025-10-14  04:19 PM    <DIR>          tmp
+               2 File(s)         30,804 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\3.22.1-g37088a8-dirty\CompilerIdCXX\tmp
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\CMakeTmp
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          C_
+2025-10-14  04:20 PM            40,408 main.c.o
+               1 File(s)         40,408 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          Users
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          User
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          AppData
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          Local
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          Android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          Sdk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          ndk
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          27.0.12077973
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          sources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          android
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          native_app_glue
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\CMakeFiles\raymob.dir\C_\Users\User\AppData\Local\Android\Sdk\ndk\27.0.12077973\sources\android\native_app_glue
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM            75,400 android_native_app_glue.c.o
+               1 File(s)         75,400 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:24 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          raylib
+2025-10-14  04:24 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raylib
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          CMakeFiles
+2025-10-14  04:20 PM             1,446 cmake_install.cmake
+2025-10-14  04:20 PM         7,167,526 libraylib.a
+               2 File(s)      7,168,972 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raylib\CMakeFiles
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          raylib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raylib\CMakeFiles\raylib.dir
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM         2,792,216 raudio.c.o
+2025-10-14  04:20 PM           921,096 rcore.c.o
+2025-10-14  04:20 PM         1,217,672 rmodels.c.o
+2025-10-14  04:20 PM           156,240 rshapes.c.o
+2025-10-14  04:20 PM           313,016 rtext.c.o
+2025-10-14  04:20 PM         1,677,296 rtextures.c.o
+2025-10-14  04:20 PM            40,760 utils.c.o
+               7 File(s)      7,118,296 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raymob
+
+2025-10-14  04:24 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          CMakeFiles
+2025-10-14  04:20 PM             1,446 cmake_install.cmake
+2025-10-14  04:24 PM           226,536 libraymoblib.a
+               2 File(s)        227,982 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raymob\CMakeFiles
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:24 PM    <DIR>          ..
+2025-10-14  04:24 PM    <DIR>          raymoblib.dir
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\Debug\5x1e386a\x86_64\deps\raymob\CMakeFiles\raymoblib.dir
+
+2025-10-14  04:24 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM            34,400 callback.c.o
+2025-10-14  04:24 PM            30,584 display.c.o
+2025-10-14  04:20 PM            63,432 helper.c.o
+2025-10-14  04:20 PM            22,848 sensor.c.o
+2025-10-14  04:24 PM            40,104 soft_keyboard.c.o
+2025-10-14  04:20 PM            33,776 vibrator.c.o
+               6 File(s)        225,144 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\tools
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\tools\debug
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          arm64-v8a
+2025-10-14  04:13 PM    <DIR>          x86
+2025-10-14  04:20 PM    <DIR>          x86_64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\tools\debug\arm64-v8a
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:28 PM            15,894 compile_commands.json
+               1 File(s)         15,894 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\tools\debug\x86
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:13 PM            15,591 compile_commands.json
+               1 File(s)         15,591 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\.cxx\tools\debug\x86_64
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:20 PM            15,666 compile_commands.json
+               1 File(s)         15,666 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:33 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          generated
+2025-10-14  04:20 PM    <DIR>          intermediates
+2025-10-14  04:19 PM    <DIR>          outputs
+2025-10-14  04:20 PM    <DIR>          tmp
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          ap_generated_sources
+2025-10-14  04:19 PM    <DIR>          data_binding_base_class_source_out
+2025-10-14  04:19 PM    <DIR>          res
+2025-10-14  04:19 PM    <DIR>          source
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\ap_generated_sources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\ap_generated_sources\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\ap_generated_sources\debug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\data_binding_base_class_source_out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\data_binding_base_class_source_out\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\data_binding_base_class_source_out\debug\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          pngs
+2025-10-14  04:19 PM    <DIR>          resValues
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res\pngs
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res\pngs\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res\resValues
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res\resValues\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\res\resValues\debug\values
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               239 gradleResValues.xml
+               1 File(s)            239 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          buildConfig
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source\buildConfig
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source\buildConfig\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source\buildConfig\debug\com
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          raylib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source\buildConfig\debug\com\raylib
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          GolfGame
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\generated\source\buildConfig\debug\com\raylib\GolfGame
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               691 BuildConfig.java
+               1 File(s)            691 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          aar_metadata_check
+2025-10-14  04:19 PM    <DIR>          annotation_processor_list
+2025-10-14  04:20 PM    <DIR>          apk
+2025-10-14  04:20 PM    <DIR>          apk_ide_redirect_file
+2025-10-14  04:20 PM    <DIR>          app_metadata
+2025-10-14  04:19 PM    <DIR>          assets
+2025-10-14  04:19 PM    <DIR>          compatible_screen_manifest
+2025-10-14  04:20 PM    <DIR>          compile_and_runtime_not_namespaced_r_class_jar
+2025-10-14  04:19 PM    <DIR>          compressed_assets
+2025-10-14  04:13 PM    <DIR>          cxx
+2025-10-14  04:19 PM    <DIR>          data_binding_base_class_log_artifact
+2025-10-14  04:19 PM    <DIR>          data_binding_dependency_artifacts
+2025-10-14  04:19 PM    <DIR>          data_binding_layout_info_type_merge
+2025-10-14  04:19 PM    <DIR>          data_binding_layout_info_type_package
+2025-10-14  04:20 PM    <DIR>          desugar_graph
+2025-10-14  04:19 PM    <DIR>          dex
+2025-10-14  04:20 PM    <DIR>          dex_archive_input_jar_hashes
+2025-10-14  04:20 PM    <DIR>          dex_number_of_buckets_file
+2025-10-14  04:19 PM    <DIR>          duplicate_classes_check
+2025-10-14  04:19 PM    <DIR>          external_file_lib_dex_archives
+2025-10-14  04:20 PM    <DIR>          external_libs_dex_archive
+2025-10-14  04:20 PM    <DIR>          external_libs_dex_archive_with_artifact_transforms
+2025-10-14  04:20 PM    <DIR>          incremental
+2025-10-14  04:20 PM    <DIR>          javac
+2025-10-14  04:20 PM    <DIR>          linked_resources_binary_format
+2025-10-14  04:19 PM    <DIR>          local_only_symbol_list
+2025-10-14  04:19 PM    <DIR>          manifest_merge_blame_file
+2025-10-14  04:19 PM    <DIR>          merged_java_res
+2025-10-14  04:20 PM    <DIR>          merged_jni_libs
+2025-10-14  04:19 PM    <DIR>          merged_manifest
+2025-10-14  04:19 PM    <DIR>          merged_manifests
+2025-10-14  04:20 PM    <DIR>          merged_native_libs
+2025-10-14  04:19 PM    <DIR>          merged_res
+2025-10-14  04:19 PM    <DIR>          merged_res_blame_folder
+2025-10-14  04:19 PM    <DIR>          merged_shaders
+2025-10-14  04:20 PM    <DIR>          merged_test_only_native_libs
+2025-10-14  04:20 PM    <DIR>          mixed_scope_dex_archive
+2025-10-14  04:19 PM    <DIR>          navigation_json
+2025-10-14  04:19 PM    <DIR>          nested_resources_validation_report
+2025-10-14  04:19 PM    <DIR>          packaged_manifests
+2025-10-14  04:19 PM    <DIR>          packaged_res
+2025-10-14  04:20 PM    <DIR>          project_dex_archive
+2025-10-14  04:20 PM    <DIR>          runtime_symbol_list
+2025-10-14  04:20 PM    <DIR>          signing_config_versions
+2025-10-14  04:19 PM    <DIR>          source_set_path_map
+2025-10-14  04:20 PM    <DIR>          stable_resource_ids_file
+2025-10-14  04:20 PM    <DIR>          stripped_native_libs
+2025-10-14  04:20 PM    <DIR>          sub_project_dex_archive
+2025-10-14  04:20 PM    <DIR>          symbol_list_with_package_name
+2025-10-14  04:20 PM    <DIR>          validate_signing_config
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\aar_metadata_check
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\aar_metadata_check\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          checkDebugAarMetadata
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\aar_metadata_check\debug\checkDebugAarMetadata
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\annotation_processor_list
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\annotation_processor_list\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          javaPreCompileDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\annotation_processor_list\debug\javaPreCompileDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM                 2 annotationProcessors.json
+               1 File(s)              2 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\apk
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\apk\debug
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM         4,002,603 app-debug.apk
+2025-10-14  04:29 PM               401 output-metadata.json
+               2 File(s)      4,003,004 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\apk_ide_redirect_file
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\apk_ide_redirect_file\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          createDebugApkListingFileRedirect
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\apk_ide_redirect_file\debug\createDebugApkListingFileRedirect
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM                72 redirect.txt
+               1 File(s)             72 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\app_metadata
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\app_metadata\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          writeDebugAppMetadata
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\app_metadata\debug\writeDebugAppMetadata
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM                56 app-metadata.properties
+               1 File(s)             56 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\assets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\assets\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugAssets
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\assets\debug\mergeDebugAssets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          font
+2025-10-14  04:19 PM    <DIR>          gfx
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\assets\debug\mergeDebugAssets\font
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-12  05:48 PM         3,825,804 rodin.otf
+               1 File(s)      3,825,804 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\assets\debug\mergeDebugAssets\gfx
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-10  03:31 PM             5,316 ball.png
+2025-10-10  03:31 PM               724 ball_shadow.png
+2025-10-12  04:00 PM             9,824 bg.png
+2025-10-10  03:31 PM               799 hole.png
+2025-10-10  03:31 PM               759 point.png
+2025-10-10  03:31 PM               665 powermeter_bg.png
+2025-10-10  03:31 PM               588 powermeter_fg.png
+2025-10-10  03:31 PM               717 powermeter_overlay.png
+2025-10-14  01:22 PM             9,244 settings.png
+2025-10-14  01:21 PM               933 wall.png
+              10 File(s)         29,569 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compatible_screen_manifest
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compatible_screen_manifest\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          createDebugCompatibleScreenManifests
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compatible_screen_manifest\debug\createDebugCompatibleScreenManifests
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               195 output-metadata.json
+               1 File(s)            195 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug\processDebugResources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             2,046 R.jar
+               1 File(s)          2,046 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          compressDebugAssets
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug\compressDebugAssets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          assets
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out\assets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          font
+2025-10-14  04:19 PM    <DIR>          gfx
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out\assets\font
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM         2,791,835 rodin.otf.jar
+               1 File(s)      2,791,835 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out\assets\gfx
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             5,452 ball.png.jar
+2025-10-14  04:19 PM               874 ball_shadow.png.jar
+2025-10-14  04:19 PM             9,956 bg.png.jar
+2025-10-14  04:19 PM               935 hole.png.jar
+2025-10-14  04:19 PM               897 point.png.jar
+2025-10-14  04:19 PM               819 powermeter_bg.png.jar
+2025-10-14  04:19 PM               742 powermeter_fg.png.jar
+2025-10-14  04:19 PM               881 powermeter_overlay.png.jar
+2025-10-14  04:19 PM             9,388 settings.png.jar
+2025-10-14  04:19 PM             1,069 wall.png.jar
+              10 File(s)         31,013 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          Debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:13 PM    <DIR>          5x1e386a
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:28 PM    <DIR>          logs
+2025-10-14  04:28 PM    <DIR>          obj
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\logs
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          arm64-v8a
+2025-10-14  04:17 PM    <DIR>          x86
+2025-10-14  04:24 PM    <DIR>          x86_64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\logs\arm64-v8a
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:29 PM               191 build_command_raymob.bat
+2025-10-14  04:29 PM             9,243 build_model.json
+2025-10-14  04:29 PM                 0 build_stderr_raymob.txt
+2025-10-14  04:29 PM               448 build_stdout_raymob.txt
+2025-10-14  04:28 PM             1,254 configure_command.bat
+2025-10-14  04:28 PM                 0 configure_stderr.txt
+2025-10-14  04:28 PM               855 configure_stdout.txt
+2025-10-14  04:28 PM               298 generate_cxx_metadata_390_timing.txt
+2025-10-14  04:29 PM               141 generate_cxx_metadata_473_timing.txt
+2025-10-14  04:29 PM             1,228 metadata_generation_record.json
+              10 File(s)         13,658 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\logs\x86
+
+2025-10-14  04:17 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:19 PM             9,183 build_model.json
+2025-10-14  04:13 PM             1,224 configure_command.bat
+2025-10-14  04:13 PM                 0 configure_stderr.txt
+2025-10-14  04:13 PM               849 configure_stdout.txt
+2025-10-14  04:17 PM               193 generate_cxx_metadata_35_timing.txt
+2025-10-14  04:19 PM               457 generate_cxx_metadata_36_timing.txt
+2025-10-14  04:19 PM             1,198 metadata_generation_record.json
+               7 File(s)         13,104 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\logs\x86_64
+
+2025-10-14  04:24 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:24 PM               188 build_command_raymob.bat
+2025-10-14  04:24 PM             9,216 build_model.json
+2025-10-14  04:24 PM                 0 build_stderr_raymob.txt
+2025-10-14  04:24 PM               442 build_stdout_raymob.txt
+2025-10-14  04:19 PM             1,239 configure_command.bat
+2025-10-14  04:19 PM                 0 configure_stderr.txt
+2025-10-14  04:20 PM               852 configure_stdout.txt
+2025-10-14  04:20 PM               247 generate_cxx_metadata_192_timing.txt
+2025-10-14  04:24 PM               193 generate_cxx_metadata_329_timing.txt
+2025-10-14  04:24 PM             1,213 metadata_generation_record.json
+              10 File(s)         13,590 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\obj
+
+2025-10-14  04:28 PM    <DIR>          .
+2025-10-14  04:13 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          arm64-v8a
+2025-10-14  04:13 PM    <DIR>          x86
+2025-10-14  04:24 PM    <DIR>          x86_64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\obj\arm64-v8a
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:29 PM         2,129,488 libraymob.so
+               1 File(s)      2,129,488 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\obj\x86
+
+2025-10-14  04:13 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\cxx\Debug\5x1e386a\obj\x86_64
+
+2025-10-14  04:24 PM    <DIR>          .
+2025-10-14  04:28 PM    <DIR>          ..
+2025-10-14  04:24 PM         2,035,000 libraymob.so
+               1 File(s)      2,035,000 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_base_class_log_artifact
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_base_class_log_artifact\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          dataBindingGenBaseClassesDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_base_class_log_artifact\debug\dataBindingGenBaseClassesDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_base_class_log_artifact\debug\dataBindingGenBaseClassesDebug\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM                42 com.raylib.GolfGame-binding_classes.json
+               1 File(s)             42 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_dependency_artifacts
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_dependency_artifacts\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          dataBindingMergeDependencyArtifactsDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_dependency_artifacts\debug\dataBindingMergeDependencyArtifactsDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_merge
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_merge\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_package
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_package\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          packageDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          currentProject
+2025-10-14  04:20 PM    <DIR>          externalLibs
+2025-10-14  04:20 PM    <DIR>          mixedScopes
+2025-10-14  04:20 PM    <DIR>          otherProjects
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_0
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_1
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_2
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_3
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_4
+2025-10-14  04:20 PM    <DIR>          dirs_bucket_5
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_0
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_1
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_2
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_3
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_4
+2025-10-14  04:20 PM    <DIR>          jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_5
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_0
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_1
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_2
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_3
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_4
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_5
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_0
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_1
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_2
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_3
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_4
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_df7c772e788367019077e96e7b41daf591952c0aa4255810da0da302342ca708_bucket_5
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               235 graph.bin
+               1 File(s)            235 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\externalLibs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\mixedScopes
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\otherProjects
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeExtDexDebug
+2025-10-14  04:19 PM    <DIR>          mergeLibDexDebug
+2025-10-14  04:20 PM    <DIR>          mergeProjectDexDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeExtDexDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM            13,052 classes.dex
+               1 File(s)         13,052 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          0
+2025-10-14  04:19 PM    <DIR>          1
+2025-10-14  04:19 PM    <DIR>          10
+2025-10-14  04:19 PM    <DIR>          11
+2025-10-14  04:19 PM    <DIR>          12
+2025-10-14  04:19 PM    <DIR>          13
+2025-10-14  04:19 PM    <DIR>          14
+2025-10-14  04:19 PM    <DIR>          15
+2025-10-14  04:19 PM    <DIR>          2
+2025-10-14  04:19 PM    <DIR>          3
+2025-10-14  04:19 PM    <DIR>          4
+2025-10-14  04:19 PM    <DIR>          5
+2025-10-14  04:19 PM    <DIR>          6
+2025-10-14  04:19 PM    <DIR>          7
+2025-10-14  04:19 PM    <DIR>          8
+2025-10-14  04:19 PM    <DIR>          9
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\0
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\1
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\10
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\11
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\12
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\13
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\14
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\15
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\2
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\3
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\5
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\6
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\7
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\8
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeLibDexDebug\9
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          0
+2025-10-14  04:20 PM    <DIR>          1
+2025-10-14  04:20 PM    <DIR>          10
+2025-10-14  04:20 PM    <DIR>          11
+2025-10-14  04:20 PM    <DIR>          12
+2025-10-14  04:20 PM    <DIR>          13
+2025-10-14  04:20 PM    <DIR>          14
+2025-10-14  04:20 PM    <DIR>          15
+2025-10-14  04:20 PM    <DIR>          2
+2025-10-14  04:20 PM    <DIR>          3
+2025-10-14  04:20 PM    <DIR>          4
+2025-10-14  04:20 PM    <DIR>          5
+2025-10-14  04:20 PM    <DIR>          6
+2025-10-14  04:20 PM    <DIR>          7
+2025-10-14  04:20 PM    <DIR>          8
+2025-10-14  04:20 PM    <DIR>          9
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\0
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             1,800 classes.dex
+               1 File(s)          1,800 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\1
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\10
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\11
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\12
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\13
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\14
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\15
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\2
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\3
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\4
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\5
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\6
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             5,336 classes.dex
+               1 File(s)          5,336 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\7
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\8
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex\debug\mergeProjectDexDebug\9
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_archive_input_jar_hashes
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_archive_input_jar_hashes\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_archive_input_jar_hashes\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               406 out
+               1 File(s)            406 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_number_of_buckets_file
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_number_of_buckets_file\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\dex_number_of_buckets_file\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM                 1 out
+               1 File(s)              1 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\duplicate_classes_check
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\duplicate_classes_check\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          checkDebugDuplicateClasses
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\duplicate_classes_check\debug\checkDebugDuplicateClasses
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_file_lib_dex_archives
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_file_lib_dex_archives\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          desugarDebugFileDependencies
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_file_lib_dex_archives\debug\desugarDebugFileDependencies
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          dataBindingGenBaseClassesDebug
+2025-10-14  04:19 PM    <DIR>          debug
+2025-10-14  04:19 PM    <DIR>          debug-mergeJavaRes
+2025-10-14  04:19 PM    <DIR>          mergeDebugAssets
+2025-10-14  04:20 PM    <DIR>          mergeDebugJniLibFolders
+2025-10-14  04:19 PM    <DIR>          mergeDebugShaders
+2025-10-14  04:20 PM    <DIR>          packageDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\dataBindingGenBaseClassesDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM               144 base_builder_log.json
+               1 File(s)            144 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugResources
+2025-10-14  04:19 PM    <DIR>          packageDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\mergeDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             3,724 compile-file-map.properties
+2025-10-14  04:19 PM    <DIR>          merged.dir
+2025-10-14  04:19 PM             5,110 merger.xml
+2025-10-14  04:19 PM    <DIR>          stripped.dir
+               2 File(s)          8,834 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir\values
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               187 values.xml
+               1 File(s)            187 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\packageDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             3,769 compile-file-map.properties
+2025-10-14  04:19 PM    <DIR>          merged.dir
+2025-10-14  04:19 PM             5,110 merger.xml
+2025-10-14  04:19 PM    <DIR>          stripped.dir
+               2 File(s)          8,879 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir\values
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               187 values.xml
+               1 File(s)            187 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug-mergeJavaRes
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM               887 merge-state
+2025-10-14  04:19 PM    <DIR>          zip-cache
+               1 File(s)            887 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\debug-mergeJavaRes\zip-cache
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM            24,712 GC2qO4Upm6+QfazgHD62r6m_jJQ=
+2025-10-14  04:19 PM             1,550 VM7qJ7IzrSaOW2em7gn5Lj9NapM=
+               2 File(s)         26,262 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\mergeDebugAssets
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM             1,932 merger.xml
+               1 File(s)          1,932 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\mergeDebugJniLibFolders
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               466 merger.xml
+               1 File(s)            466 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\mergeDebugShaders
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM               466 merger.xml
+               1 File(s)            466 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\packageDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          tmp
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\packageDebug\tmp
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\packageDebug\tmp\debug
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM               534 dex-renamer-state.txt
+2025-10-14  04:29 PM    <DIR>          zip-cache
+               1 File(s)            534 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\incremental\packageDebug\tmp\debug\zip-cache
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM             1,622 androidResources
+2025-10-14  04:29 PM               120 javaResources0
+               2 File(s)          1,742 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          compileDebugJavaWithJavac
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug\compileDebugJavaWithJavac
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          classes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          raylib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\raylib
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          GolfGame
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\raylib\GolfGame
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               815 BuildConfig.class
+2025-10-14  04:20 PM             2,196 DisplayManager.class
+2025-10-14  04:20 PM             1,948 NativeLoader.class
+2025-10-14  04:20 PM             1,937 SoftKeyboard.class
+               4 File(s)          6,896 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\linked_resources_binary_format
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\linked_resources_binary_format\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\linked_resources_binary_format\debug\processDebugResources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM            56,906 linked-resources-binary-format-debug.ap_
+2025-10-14  04:20 PM               423 output-metadata.json
+               2 File(s)         57,329 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\local_only_symbol_list
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\local_only_symbol_list\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          parseDebugLocalResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\local_only_symbol_list\debug\parseDebugLocalResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               174 R-def.txt
+               1 File(s)            174 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\manifest_merge_blame_file
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\manifest_merge_blame_file\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          processDebugMainManifest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\manifest_merge_blame_file\debug\processDebugMainManifest
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             4,366 manifest-merger-blame-debug-report.txt
+               1 File(s)          4,366 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_java_res
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_java_res\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugJavaResource
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_java_res\debug\mergeDebugJavaResource
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               207 base.jar
+               1 File(s)            207 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_jni_libs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_jni_libs\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          mergeDebugJniLibFolders
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifest
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifest\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          processDebugMainManifest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifest\debug\processDebugMainManifest
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             2,022 AndroidManifest.xml
+               1 File(s)          2,022 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifests
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifests\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          processDebugManifest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_manifests\debug\processDebugManifest
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             2,022 AndroidManifest.xml
+2025-10-14  04:19 PM               388 output-metadata.json
+               2 File(s)          2,410 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          mergeDebugNativeLibs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs\debug\mergeDebugNativeLibs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs\debug\mergeDebugNativeLibs\out
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          lib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs\debug\mergeDebugNativeLibs\out\lib
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          arm64-v8a
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_native_libs\debug\mergeDebugNativeLibs\out\lib\arm64-v8a
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM         2,129,488 libraymob.so
+               1 File(s)      2,129,488 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res\debug\mergeDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               452 mipmap-anydpi-v26_ic_launcher.xml.flat
+2025-10-14  04:19 PM               464 mipmap-anydpi-v26_ic_launcher_round.xml.flat
+2025-10-14  04:19 PM             1,480 mipmap-hdpi_ic_launcher.png.flat
+2025-10-14  04:19 PM             1,628 mipmap-hdpi_ic_launcher_foreground.png.flat
+2025-10-14  04:19 PM             3,412 mipmap-hdpi_ic_launcher_round.png.flat
+2025-10-14  04:19 PM             1,092 mipmap-mdpi_ic_launcher.png.flat
+2025-10-14  04:19 PM             1,060 mipmap-mdpi_ic_launcher_foreground.png.flat
+2025-10-14  04:19 PM             2,296 mipmap-mdpi_ic_launcher_round.png.flat
+2025-10-14  04:19 PM             1,940 mipmap-xhdpi_ic_launcher.png.flat
+2025-10-14  04:19 PM             2,104 mipmap-xhdpi_ic_launcher_foreground.png.flat
+2025-10-14  04:19 PM             5,116 mipmap-xhdpi_ic_launcher_round.png.flat
+2025-10-14  04:19 PM             2,720 mipmap-xxhdpi_ic_launcher.png.flat
+2025-10-14  04:19 PM             2,980 mipmap-xxhdpi_ic_launcher_foreground.png.flat
+2025-10-14  04:19 PM             7,496 mipmap-xxhdpi_ic_launcher_round.png.flat
+2025-10-14  04:19 PM             3,856 mipmap-xxxhdpi_ic_launcher.png.flat
+2025-10-14  04:19 PM             4,052 mipmap-xxxhdpi_ic_launcher_foreground.png.flat
+2025-10-14  04:19 PM            10,728 mipmap-xxxhdpi_ic_launcher_round.png.flat
+2025-10-14  04:19 PM               288 values_values.arsc.flat
+              18 File(s)         53,164 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          multi-v2
+2025-10-14  04:19 PM    <DIR>          single
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\multi-v2
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             1,336 mergeDebugResources.json
+2025-10-14  04:19 PM             1,344 values.json
+               2 File(s)          2,680 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\single
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             3,304 mergeDebugResources.json
+               1 File(s)          3,304 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_shaders
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_shaders\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mergeDebugShaders
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_shaders\debug\mergeDebugShaders
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_shaders\debug\mergeDebugShaders\out
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_test_only_native_libs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_test_only_native_libs\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          mergeDebugNativeLibs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_test_only_native_libs\debug\mergeDebugNativeLibs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\merged_test_only_native_libs\debug\mergeDebugNativeLibs\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\mixed_scope_dex_archive
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\mixed_scope_dex_archive\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\navigation_json
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\navigation_json\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          extractDeepLinksDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\navigation_json\debug\extractDeepLinksDebug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM                 2 navigation.json
+               1 File(s)              2 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\nested_resources_validation_report
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\nested_resources_validation_report\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          generateDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\nested_resources_validation_report\debug\generateDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM                15 nestedResourcesValidationReport.txt
+               1 File(s)             15 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_manifests
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_manifests\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugManifestForPackage
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_manifests\debug\processDebugManifestForPackage
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             2,022 AndroidManifest.xml
+2025-10-14  04:20 PM               390 output-metadata.json
+               2 File(s)          2,412 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          packageDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mipmap-anydpi-v26
+2025-10-14  04:19 PM    <DIR>          mipmap-hdpi-v4
+2025-10-14  04:19 PM    <DIR>          mipmap-mdpi-v4
+2025-10-14  04:19 PM    <DIR>          mipmap-xhdpi-v4
+2025-10-14  04:19 PM    <DIR>          mipmap-xxhdpi-v4
+2025-10-14  04:19 PM    <DIR>          mipmap-xxxhdpi-v4
+2025-10-14  04:19 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-anydpi-v26
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM               265 ic_launcher.xml
+2025-10-14  04:01 PM               265 ic_launcher_round.xml
+               2 File(s)            530 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-hdpi-v4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,349 ic_launcher.png
+2025-10-14  04:01 PM             1,477 ic_launcher_foreground.png
+2025-10-14  04:01 PM             3,271 ic_launcher_round.png
+               3 File(s)          6,097 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-mdpi-v4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM               961 ic_launcher.png
+2025-10-14  04:01 PM               909 ic_launcher_foreground.png
+2025-10-14  04:01 PM             2,155 ic_launcher_round.png
+               3 File(s)          4,025 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xhdpi-v4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,809 ic_launcher.png
+2025-10-14  04:01 PM             1,950 ic_launcher_foreground.png
+2025-10-14  04:01 PM             4,974 ic_launcher_round.png
+               3 File(s)          8,733 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxhdpi-v4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM             2,592 ic_launcher.png
+2025-10-14  04:01 PM             2,826 ic_launcher_foreground.png
+2025-10-14  04:01 PM             7,354 ic_launcher_round.png
+               3 File(s)         12,772 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxxhdpi-v4
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM             3,723 ic_launcher.png
+2025-10-14  04:01 PM             3,898 ic_launcher_foreground.png
+2025-10-14  04:01 PM            10,584 ic_launcher_round.png
+               3 File(s)         18,205 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\packaged_res\debug\packageDebugResources\values
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               187 values.xml
+               1 File(s)            187 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               954 82a8bec291a20906d6212c33e7f90db99b0e87dcc7e328176096f3768c2c481e_2.jar
+2025-10-14  04:20 PM               510 82a8bec291a20906d6212c33e7f90db99b0e87dcc7e328176096f3768c2c481e_4.jar
+2025-10-14  04:20 PM    <DIR>          com
+               2 File(s)          1,464 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          raylib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\raylib
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          GolfGame
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\raylib\GolfGame
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             1,188 BuildConfig.dex
+2025-10-14  04:20 PM             2,076 DisplayManager.dex
+2025-10-14  04:20 PM             2,064 NativeLoader.dex
+2025-10-14  04:20 PM             2,112 SoftKeyboard.dex
+               4 File(s)          7,440 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\runtime_symbol_list
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\runtime_symbol_list\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\runtime_symbol_list\debug\processDebugResources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               194 R.txt
+               1 File(s)            194 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\signing_config_versions
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\signing_config_versions\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          writeDebugSigningConfigVersions
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\signing_config_versions\debug\writeDebugSigningConfigVersions
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM                96 signing-config-versions.json
+               1 File(s)             96 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\source_set_path_map
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\source_set_path_map\debug
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          mapDebugSourceSetPaths
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\source_set_path_map\debug\mapDebugSourceSetPaths
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM               826 file-map.txt
+               1 File(s)            826 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stable_resource_ids_file
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stable_resource_ids_file\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stable_resource_ids_file\debug\processDebugResources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               284 stableIds.txt
+               1 File(s)            284 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          stripDebugDebugSymbols
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug\stripDebugDebugSymbols
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug\stripDebugDebugSymbols\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          lib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug\stripDebugDebugSymbols\out\lib
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:29 PM    <DIR>          arm64-v8a
+2025-10-14  04:29 PM    <DIR>          x86_64
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug\stripDebugDebugSymbols\out\lib\arm64-v8a
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+2025-10-14  04:29 PM         1,095,712 libraymob.so
+               1 File(s)      1,095,712 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\stripped_native_libs\debug\stripDebugDebugSymbols\out\lib\x86_64
+
+2025-10-14  04:29 PM    <DIR>          .
+2025-10-14  04:29 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\sub_project_dex_archive
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\sub_project_dex_archive\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          dexBuilderDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          out
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug\out
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\symbol_list_with_package_name
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\symbol_list_with_package_name\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          processDebugResources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\symbol_list_with_package_name\debug\processDebugResources
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM               139 package-aware-r.txt
+               1 File(s)            139 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\validate_signing_config
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\validate_signing_config\debug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          validateSigningDebug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\intermediates\validate_signing_config\debug\validateSigningDebug
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\outputs
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          logs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\outputs\logs
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:19 PM             7,152 manifest-merger-debug-report.txt
+               1 File(s)          7,152 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\tmp
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM    <DIR>          compileDebugJavaWithJavac
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\build\tmp\compileDebugJavaWithJavac
+
+2025-10-14  04:20 PM    <DIR>          .
+2025-10-14  04:20 PM    <DIR>          ..
+2025-10-14  04:20 PM             1,198 previous-compilation-data.bin
+               1 File(s)          1,198 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\libs
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:33 PM    <DIR>          ..
+2025-10-14  04:01 PM                 0 .gitkeep
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:33 PM    <DIR>          ..
+2025-10-14  04:19 PM    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main
+
+2025-10-14  04:19 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,771 AndroidManifest.xml
+2025-10-14  04:02 PM    <DIR>          assets
+2025-10-14  04:01 PM    <DIR>          cpp
+2025-10-14  04:18 PM            86,470 ic_launcher-playstore.png
+2025-10-14  04:01 PM    <DIR>          java
+2025-10-14  04:01 PM    <DIR>          res
+               2 File(s)         88,241 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets
+
+2025-10-14  04:02 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM                 0 .gitkeep
+2025-10-12  05:52 PM    <DIR>          font
+2025-10-14  01:22 PM    <DIR>          gfx
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets\font
+
+2025-10-12  05:52 PM    <DIR>          .
+2025-10-14  04:02 PM    <DIR>          ..
+2025-10-12  05:48 PM         3,825,804 rodin.otf
+               1 File(s)      3,825,804 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\assets\gfx
+
+2025-10-14  01:22 PM    <DIR>          .
+2025-10-14  04:02 PM    <DIR>          ..
+2025-10-10  03:31 PM             5,316 ball.png
+2025-10-10  03:31 PM               724 ball_shadow.png
+2025-10-12  04:00 PM             9,824 bg.png
+2025-10-10  03:31 PM               799 hole.png
+2025-10-10  03:31 PM               759 point.png
+2025-10-10  03:31 PM               665 powermeter_bg.png
+2025-10-10  03:31 PM               588 powermeter_fg.png
+2025-10-10  03:31 PM               717 powermeter_overlay.png
+2025-10-14  01:22 PM             9,244 settings.png
+2025-10-14  01:21 PM               933 wall.png
+              10 File(s)         29,569 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,756 CMakeLists.txt
+2025-10-14  04:01 PM    <DIR>          deps
+2025-10-14  04:19 PM            18,909 main.c
+               2 File(s)         20,665 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raylib
+2025-10-14  04:01 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,491 CMakeLists.txt
+2025-10-14  04:01 PM            16,722 config.h
+2025-10-14  04:01 PM    <DIR>          external
+2025-10-14  04:01 PM    <DIR>          platforms
+2025-10-14  04:01 PM           109,654 raudio.c
+2025-10-14  04:01 PM           130,625 raylib.h
+2025-10-14  04:01 PM            82,281 raymath.h
+2025-10-14  04:01 PM            21,819 rcamera.h
+2025-10-14  04:01 PM           159,352 rcore.c
+2025-10-14  04:01 PM            22,530 rgestures.h
+2025-10-14  04:01 PM           249,722 rlgl.h
+2025-10-14  04:01 PM           307,329 rmodels.c
+2025-10-14  04:01 PM            92,430 rshapes.c
+2025-10-14  04:01 PM           102,673 rtext.c
+2025-10-14  04:01 PM           225,677 rtextures.c
+2025-10-14  04:01 PM            20,792 utils.c
+2025-10-14  04:01 PM             3,085 utils.h
+              15 File(s)      1,546,182 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib\external
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM           199,324 cgltf.h
+2025-10-14  04:01 PM             5,184 dirent.h
+2025-10-14  04:01 PM           525,671 dr_flac.h
+2025-10-14  04:01 PM           181,934 dr_mp3.h
+2025-10-14  04:01 PM           351,978 dr_wav.h
+2025-10-14  04:01 PM            51,991 jar_mod.h
+2025-10-14  04:01 PM           101,770 jar_xm.h
+2025-10-14  04:01 PM           305,622 m3d.h
+2025-10-14  04:01 PM         3,985,334 miniaudio.h
+2025-10-14  04:01 PM            35,114 msf_gif.h
+2025-10-14  04:01 PM            81,774 nanosvg.h
+2025-10-14  04:01 PM            38,399 nanosvgrast.h
+2025-10-14  04:01 PM            72,865 par_shapes.h
+2025-10-14  04:01 PM            23,885 qoa.h
+2025-10-14  04:01 PM            10,503 qoaplay.c
+2025-10-14  04:01 PM            18,314 qoi.h
+2025-10-14  04:01 PM            36,115 rl_gputex.h
+2025-10-14  04:01 PM            11,693 rprand.h
+2025-10-14  04:01 PM            28,019 sdefl.h
+2025-10-14  04:01 PM            21,581 sinfl.h
+2025-10-14  04:01 PM           283,010 stb_image.h
+2025-10-14  04:01 PM           451,105 stb_image_resize2.h
+2025-10-14  04:01 PM            71,221 stb_image_write.h
+2025-10-14  04:01 PM            17,918 stb_perlin.h
+2025-10-14  04:01 PM            20,199 stb_rect_pack.h
+2025-10-14  04:01 PM           199,192 stb_truetype.h
+2025-10-14  04:01 PM           192,790 stb_vorbis.c
+2025-10-14  04:01 PM            45,666 tinyobj_loader_c.h
+2025-10-14  04:01 PM            19,540 vox_loader.h
+              29 File(s)      7,387,711 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raylib\platforms
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM            55,092 rcore_android.c
+               1 File(s)         55,092 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\cpp\deps\raymob
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,654 callback.c
+2025-10-14  04:01 PM               697 CMakeLists.txt
+2025-10-14  04:29 PM             3,152 display.c
+2025-10-14  04:01 PM            15,225 helper.c
+2025-10-14  04:01 PM             9,019 raymob.h
+2025-10-14  04:01 PM             5,085 sensor.c
+2025-10-14  04:29 PM             8,095 soft_keyboard.c
+2025-10-14  04:01 PM             4,217 vibrator.c
+               8 File(s)         47,144 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raylib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com\raylib
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          raymob
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\java\com\raylib\raymob
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:29 PM             2,094 DisplayManager.java
+2025-10-14  04:29 PM             3,199 NativeLoader.java
+2025-10-14  04:29 PM             2,604 SoftKeyboard.java
+               3 File(s)          7,897 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:19 PM    <DIR>          ..
+2025-10-14  04:01 PM    <DIR>          mipmap-anydpi-v26
+2025-10-14  04:01 PM    <DIR>          mipmap-hdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-mdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xhdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xxhdpi
+2025-10-14  04:01 PM    <DIR>          mipmap-xxxhdpi
+2025-10-14  04:01 PM    <DIR>          values
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-anydpi-v26
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               265 ic_launcher.xml
+2025-10-14  04:01 PM               265 ic_launcher_round.xml
+               2 File(s)            530 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-hdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,349 ic_launcher.png
+2025-10-14  04:01 PM             1,477 ic_launcher_foreground.png
+2025-10-14  04:01 PM             3,271 ic_launcher_round.png
+               3 File(s)          6,097 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-mdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               961 ic_launcher.png
+2025-10-14  04:01 PM               909 ic_launcher_foreground.png
+2025-10-14  04:01 PM             2,155 ic_launcher_round.png
+               3 File(s)          4,025 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             1,809 ic_launcher.png
+2025-10-14  04:01 PM             1,950 ic_launcher_foreground.png
+2025-10-14  04:01 PM             4,974 ic_launcher_round.png
+               3 File(s)          8,733 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             2,592 ic_launcher.png
+2025-10-14  04:01 PM             2,826 ic_launcher_foreground.png
+2025-10-14  04:01 PM             7,354 ic_launcher_round.png
+               3 File(s)         12,772 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxxhdpi
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM             3,723 ic_launcher.png
+2025-10-14  04:01 PM             3,898 ic_launcher_foreground.png
+2025-10-14  04:01 PM            10,584 ic_launcher_round.png
+               3 File(s)         18,205 bytes
+
+ Directory of C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\values
+
+2025-10-14  04:01 PM    <DIR>          .
+2025-10-14  04:01 PM    <DIR>          ..
+2025-10-14  04:01 PM               120 ic_launcher_background.xml
+2025-10-14  04:01 PM                68 strings.xml
+               2 File(s)            188 bytes
+
+     Total Files Listed:
+             425 File(s)     62,431,018 bytes
+            1277 Dir(s)  286,730,260,480 bytes free

@@ -2,23 +2,18 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <!-- OpenGL requirement -->
     <uses-feature android:glEsVersion="${GL_VERSION_CODE}" android:required="true" />
 
-    <!-- Indicates the requirements for this application -->
+    <!-- Permissions (no android:required here!) -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
-    <uses-permission android:name="android.permission.INTERNET"
-        android:required="${REQUIRE_INTERNET}" />
-
-    <uses-permission android:name="android.permission.VIBRATE"
-        android:required="${REQUIRE_VIBRATION}" />
-
+    <!-- Required device features -->
     <uses-feature android:name="android.hardware.sensor.gyroscope"
         android:required="${REQUIRE_GYROSCOPE}" />
-
     <uses-feature android:name="android.hardware.sensor.accelerometer"
         android:required="${REQUIRE_ACCELEROMETER}" />
-
-    <!-- Application config -->
 
     <application
         android:allowBackup="false"
@@ -26,15 +21,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         tools:targetApi="31">
+
         <activity
             android:name=".NativeLoader"
             android:configChanges="keyboardHidden|screenSize"
-            android:screenOrientation="${APP_ORIENTATION}" android:launchMode="singleTask"
+            android:screenOrientation="${APP_ORIENTATION}"
+            android:launchMode="singleTask"
             android:resizeableActivity="false"
             android:clearTaskOnLaunch="true"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
                 <category android:name="android.intent.category.${APP_CATEGORY}" />
             </intent-filter>
 

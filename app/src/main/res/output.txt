@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-hdpi\ic_launcher.png - 72x72
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png - 162x162
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-hdpi\ic_launcher_round.png - 72x72
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-mdpi\ic_launcher.png - 48x48
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png - 108x108
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-mdpi\ic_launcher_round.png - 48x48
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xhdpi\ic_launcher.png - 96x96
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png - 216x216
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png - 96x96
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxhdpi\ic_launcher.png - 144x144
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png - 324x324
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png - 144x144
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png - 192x192
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png - 432x432
+C:\Users\User\Desktop\raymob-5.5.1\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png - 192x192
